@@ -4,7 +4,6 @@ Jupyter Notebook, an open-source web app, empowers you to create and share docum
 
 ## Covered Topics 📋
 
-- Intro: Introduction to Jupyter Notebook
 - Keyboard Shortcuts: Enhance your productivity with keyboard shortcuts
 - Utilities in Jupyter Notebook: Explore useful utilities for better workflow
 - Magic Commands: Leverage magic commands for advanced functionality
