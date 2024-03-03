@@ -22,7 +22,6 @@ https://chromewebstore.google.com/detail/chatgpt-jupyter-ai-assist/dlipncbkjmjjd
 Jupyter Widgets documentation:
 https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
 
-
 ## Contact Us
 Vishubpatel4@gmail.com
 
